@@ -1,0 +1,49 @@
+#header
+{
+    height: 150px;
+    display: flex;
+}
+#header-lewy
+{
+    background-color: rgb(97, 241, 53);
+    width: 70%;
+}
+#header-prawy
+{
+    background-color: rgb(78, 204, 193);
+    width: 30%;
+}
+#glowny
+{
+    height: 600px;
+    display: flex;
+}
+#glowny-lewy
+{
+    width: 30%;
+}
+#glowny-prawy
+{
+    width: 70%;
+    background-color: yellow;
+}
+#gora
+{
+    height: 200px;
+    background-color: red;
+}
+#dol
+{
+    height: 400px;
+    background-color: purple;
+}
+#stopka
+{
+    height: 203px;
+    background-color: black;
+}
+body
+{
+    padding: 0 0 0 0 ;
+    margin: 0 0 0 0 ;
+}
